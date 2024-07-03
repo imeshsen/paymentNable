@@ -1,6 +1,0 @@
-projectKey=lk.sampath.oc:SB_Transfers
-serverUrl=http://192.168.80.94:9000
-serverVersion=7.7.0.23042
-dashboardUrl=http://192.168.80.94:9000/dashboard?id=lk.sampath.oc%3ASB_Transfers
-ceTaskId=AWsh20bpZV2_XWV9ntS4
-ceTaskUrl=http://192.168.80.94:9000/api/ce/task?id=AWsh20bpZV2_XWV9ntS4
